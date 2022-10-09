@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Advanced machine learning
 - 📔 I’m addicted to learning and growing every day
 - 💞️ I’m looking to collaborate on hacktoberfest
-- 📫 Reach me on linked in or via email
+- 📫 Reach me on [linked in](https://www.linkedin.com/in/balaji-prakasam-7a77b822b/) or via [email](balajiprakasam593@gmail.com)
 
 
 
