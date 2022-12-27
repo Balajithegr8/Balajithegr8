@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning, programming and maths
 - 🌱 I’m currently learning Advanced machine learning
 - 📔 I’m addicted to learning and growing every day
-- 💞️ I’m looking to collaborate on hacktoberfest
+- 💞️ I’m looking to collaborate 
 - 📫 Reach me on [linked in](https://www.linkedin.com/in/balaji-prakasam-7a77b822b/) or via [email](mailto:balajiprakasam593@gmail.com)
 
 
