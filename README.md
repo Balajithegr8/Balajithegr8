@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balajithegr8
 - 👀 I’m interested in Machine learning, programming and maths
-- 🌱 I’m currently learning Advanced machine learning
+- 🌱 I’m currently learning Advanced React
 - 📔 I’m addicted to learning and growing every day
 - 💞️ I’m looking to collaborate 
 - 📫 Reach me on [linked in](https://www.linkedin.com/in/balaji-prakasam-7a77b822b/) or via [email](mailto:balajiprakasam593@gmail.com)
@@ -15,6 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 <br>
 
