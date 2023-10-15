@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Balajithegr8&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Balajithegr8&style=flat)
 - 👋 Hi, I’m @Balajithegr8
 - 👀 I’m interested in Machine learning, programming and maths
 - 🌱 I’m currently learning Advanced React
